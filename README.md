@@ -9,6 +9,6 @@
 
 ### My Major Projects (In Order Of Popularity)
 - [Return YouTube Dislike (contributer)](https://github.com/Anarios/return-youtube-dislike)
-- [Vuetube](https://github.com/Frontesque/VueTube)
+- [VueTube](https://github.com/Frontesque/VueTube)
 - [Celeste](https://celeste.photos)
 - [SCRCPY+](https://github.com/frontesque/scrcpy-plus)
